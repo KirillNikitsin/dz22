@@ -1,5 +1,9 @@
 import static java.lang.Integer.getInteger;
 import static java.lang.Integer.parseInt;
+//Здравствуйте, видел ваш комментарий под прошлым заданием, но к сожалению у меня повышенная нагрузка на работе и 
+//ускорится я пока не могу
+//Возникла проблема с проверкой массива, первые несколько раз когда я запускал этот код, программа работала так как нужно по задани
+//а дальше начали возникать ошибки, я и не могу найти где я закосячил
 
 public class dz22 {
     private static class MyArraySizeException extends RuntimeException{
